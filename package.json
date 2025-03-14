@@ -1,5 +1,24 @@
 {
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "discord bot in discord.js",
+  "homepage": "https://github.com/AltoidCode/DiscordBot#readme",
+  "bugs": {
+    "url": "https://github.com/AltoidCode/DiscordBot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AltoidCode/DiscordBot.git"
+  },
+  "license": "ISC",
+  "author": "Altoid",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "discord.js": "^14.18.0"
-  }
+  },
+  "devDependencies": {}
 }
