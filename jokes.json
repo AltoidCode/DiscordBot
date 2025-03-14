@@ -1,0 +1,44 @@
+{
+  "jokes": [
+    {
+      "setup": "Why don't skeletons fight each other?",
+      "punchline": "They don't have the guts."
+    },
+    {
+      "setup": "Why don't eggs tell jokes?",
+      "punchline": "Because they'd crack each other up."
+    },
+    {
+      "setup": "Why did the scarecrow win an award?",
+      "punchline": "Because he was outstanding in his field."
+    },
+    {
+      "setup": "I told my wife she was drawing her eyebrows too high.",
+      "punchline": "She looked surprised."
+    },
+    {
+      "setup": "What do you get when you cross a snowman and a vampire?",
+      "punchline": "Frostbite."
+    },
+    {
+      "setup": "Why don't some couples go to the gym?",
+      "punchline": "Because some relationships don't work out."
+    },
+    {
+      "setup": "Why did the computer go to the doctor?",
+      "punchline": "Because it had a virus!"
+    },
+    {
+      "setup": "What did the left eye say to the right eye?",
+      "punchline": "Between you and me, something smells."
+    },
+    {
+      "setup": "Why did the tomato turn red?",
+      "punchline": "Because it saw the salad dressing!"
+    },
+    {
+      "setup": "I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",
+      "punchline": "Talk about a sweet response!"
+    }
+  ]
+}
